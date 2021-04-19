@@ -1,1 +1,45 @@
-/* Style Sheet */
+body{
+    background-image: url("https://wallpapercave.com/wp/wp4575220.jpg");
+    background-position: top center;
+    background-repeat: no-repeat;
+    background-size: 100%;
+    margin:10px 5%;
+}
+
+div{
+    background-color: rgba(206, 229, 250,0.5);
+    color:rgb(16, 16, 61);
+    font-family:  Helvetica, Arial, sans-serif;
+    text-align: center;
+
+}
+
+#top{
+    background-color: transparent;
+}
+
+h1{
+    font-family: Impact, 'Arial Narrow Bold', sans-serif;
+    border-style: inset;
+    border-radius: 50px;
+    border-color: purple;
+    border-width: 10px;
+    background-color: rgba(154, 155, 240, 0.849);
+    padding:15px;
+    font-size: 40px;
+}
+
+ul{
+    list-style-type: none;
+    margin: 0;
+    padding:0;
+    overflow: hidden;
+    background-color:powderblue;
+    /* padding-left: 45%; */
+    text-align: center;  /*created a centered nav bar*/
+    
+}
+li{
+    /* float: left; */
+    display: inline;   /* each item doesnt take up entire width*/
+}
