@@ -3,7 +3,7 @@ const urlParams = new URLSearchParams(window.location.search);
 const star = urlParams.get('star')
 
 console.log("run")
-fetch("/star.json")
+fetch("/GroupProject/star.json")
 .then((response) => {
     return response.json()
     console.log("run")
