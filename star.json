@@ -1,17 +1,17 @@
 {
   "Sun":{
     "name": "Sun",
-    "description": "text placeholder description",
+    "description": "The Sun is the star at the center of the Solar System. It is a nearly perfect sphere of hot plasma,[18][19] heated to incandescence by nuclear fusion reactions in its core, radiating the energy mainly as visible light and infrared radiation. It is by far the most important source of energy for life on Earth. Its diameter is about 1.39 million kilometres (864,000 miles), or 109 times that of Earth. Its mass is about 330,000 times that of Earth, and accounts for about 99.86% of the total mass of the Solar System.[20] Roughly three quarters of the Sun's mass consists of hydrogen (~73%); the rest is mostly helium (~25%), with much smaller quantities of heavier elements, including oxygen, carbon, neon, and iron.[21]",
     "imgUrl": "https://www.extremetech.com/wp-content/uploads/2020/01/NASA-Sun.jpg"
   },
-  "Sun2":{
-    "name": "Sun2",
-    "description": "text placeholder description",
-    "imgUrl": "https://..."
+  "Sirius":{
+    "name": "Sirius",
+    "description": "Sirius (/ˈsɪriəs/) is the brightest star in the night sky. Its name is derived from the Greek word Σείριος (Seirios, lit. 'glowing' or 'scorching'). The star is designated α Canis Majoris, Latinized to Alpha Canis Majoris, and abbreviated Alpha CMa or α CMa. With a visual apparent magnitude of −1.46, Sirius is almost twice as bright as Canopus, the next brightest star. Sirius is a binary star consisting of a main-sequence star of spectral type A0 or A1, termed Sirius A, and a faint white dwarf companion of spectral type DA2, termed Sirius B. The distance between the two varies between 8.2 and 31.5 astronomical units as they orbit every 50 years.",
+    "imgUrl": "https://cdn.mos.cms.futurecdn.net/m2FG3yRCxLrjmMV8xABx4C.jpg"
   },
-  "Sun3":{
-    "name": "Sun3",
-    "description": "text placeholder description",
-    "imgUrl": "https://..."
+  "Wolf-Rayet":{
+    "name": "Wolf-Rayet",
+    "description": "Wolf–Rayet stars, often abbreviated as WR stars, are a rare heterogeneous set of stars with unusual spectra showing prominent broad emission lines of ionised helium and highly ionised nitrogen or carbon. The spectra indicate very high surface enhancement of heavy elements, depletion of hydrogen, and strong stellar winds. The surface temperatures of known Wolf-Rayet stars range from 30,000 K to around 210,000 K, hotter than almost all other kinds of stars. They were previously called W-type stars referring to their spectral classification.",
+    "imgUrl": "https://astronomy.com/-/media/Images/Magazine%20Articles/2020/07/ASYES0720_05.png?mw=600"
   }
 }
