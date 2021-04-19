@@ -8,4 +8,4 @@ fetch("/star.json")
 })
 .then((data) => {
   console.log(data)
-}
+})
