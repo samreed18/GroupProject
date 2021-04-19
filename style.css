@@ -11,7 +11,6 @@ div{
     color:rgb(16, 16, 61);
     font-family:  Helvetica, Arial, sans-serif;
     text-align: center;
-
 }
 
 #top{
@@ -37,8 +36,8 @@ ul{
     background-color:powderblue;
     /* padding-left: 45%; */
     text-align: center;  /*created a centered nav bar*/
-    
 }
+
 li{
     /* float: left; */
     display: inline;   /* each item doesnt take up entire width*/
