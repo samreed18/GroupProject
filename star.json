@@ -1,17 +1,17 @@
-[
-  {
+{
+  "Sun":{
     "name": "Sun",
     "description": "text placeholder description",
     "imgUrl": "https://..."
   },
-  {
+  "Sun2:{
     "name": "Sun2",
     "description": "text placeholder description",
     "imgUrl": "https://..."
   },
-  {
+  "Sun3":{
     "name": "Sun3",
     "description": "text placeholder description",
     "imgUrl": "https://..."
-  },
-]
+  }
+}
